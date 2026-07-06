@@ -1,6 +1,10 @@
 # macOS New Tab
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/1ebac303-f508-4131-a8ef-a3e469319a46" />
 
+[![hackatime](https://hackatime.hackclub.com/api/v1/badge/U093J978FPG/AhnafPro/custom-new-tab)](https://hackatime.hackclub.com/api/v1/badge/U093J978FPG/AhnafPro/custom-new-tab)
+
+
+
 ## A custom New Tab page inspired by macOS Tahoe made with pure HTML and CSS.
 The custom new tab page was made to replicate the aesthetics of macOS as much as possible, which includes:
 # ✨ Features
